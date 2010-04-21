@@ -1,0 +1,9 @@
+{content[title Metacircus]
+
+{div#home
+ {h1 Hacks}
+ {ul.posts#hacks}
+ {h1 Writings}
+ {ul.posts#writings}}
+ 
+}
